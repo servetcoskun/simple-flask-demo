@@ -17,4 +17,5 @@ else:
     app.config.from_object("config.ProductionConfig")
 
 
+
 from app import views
